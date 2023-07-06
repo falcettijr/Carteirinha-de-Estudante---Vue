@@ -1,10 +1,14 @@
 # Carteirinha de Estudante em VUE.js
 >Simulação de carteirinha de estudante, feito com VUE como exercício da minha pós-graduação em Desenvolvimento FullStack. (modificado por mim.)
 
+## Screenshot
+
+![Screenshot](screenshot.jpg#vitrinedev)
+
 ## Índice
 
-- [Descrição](#descrição)
 - [Screenshot](#screenshot)
+- [Descrição](#descrição)
 - [Funcionalidades](#funcionalidades)
 - [Tecnologias](#tecnologias)
 - [Instruções](#instruções-de-uso)
@@ -16,10 +20,6 @@
 ## Descrição
 
 Simulação de um sistema onde o aluno digita seus dados e pode ver como ficará sua carteirinha de estudante.
-
-## Screenshot
-
-![Screenshot](screenshot.jpg#vitrinedev)
 
 ## Funcionalidades
 
