@@ -7,7 +7,6 @@
 
 ## Índice
 
-- [Screenshot](#screenshot)
 - [Descrição](#descrição)
 - [Funcionalidades](#funcionalidades)
 - [Tecnologias](#tecnologias)
