@@ -60,9 +60,10 @@ Contribuições são sempre bem-vindas. Sinta-se à vontade para abrir uma issue
 ## Autor
 
 > #### Sergio Falcetti
-> [Linkedin](https://github.com/falcettijr)
-> [GitHub](https://www.linkedin.com/in/sergiofalcetti/)
-> [FrontEnd Mentor](https://www.frontendmentor.io/profile/falcettijr)
+>
+> * [Linkedin](https://github.com/falcettijr)
+> * [GitHub](https://www.linkedin.com/in/sergiofalcetti/)
+> * [FrontEnd Mentor](https://www.frontendmentor.io/profile/falcettijr)
 
 ## Licença
 
